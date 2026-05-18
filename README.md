@@ -1,5 +1,4 @@
-This repository provides the battery datasets, synthetic data, and framework for battery lifetime prediction research.  
-The data and codes corresponding to two battery chemistries are included in two separated folders under the folder `main`:
+This repository provides the battery datasets, synthetic data, and framework for battery lifetime prediction research. The data and codes corresponding to two battery chemistries are included in two separated folders under the folder `main`:
 
 - LFP (Lithium Iron Phosphate)
 - NCM (Nickel Cobalt Manganese)
